@@ -1,0 +1,5 @@
+runtime: nodejs14
+service: be-owl
+
+env_variables:
+  PORT: 8080
